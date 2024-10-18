@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "img": "https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png",
+      "platform": "Facebook",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png",
+      "platform": "Instagram",
+      "link": "#"
+    }
+]
